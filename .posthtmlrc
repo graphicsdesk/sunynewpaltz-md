@@ -7,12 +7,116 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "District 5 teachers, administrators, and Community Education Council members will be trained in SUNY New Paltz’s Science of Reading curriculum through a grant awarded to the district. Through the training, participants will receive a microcredential in the “science of reading,” part of an expansion of SUNY and CUNY’s microcredential program."
+          },
+          {
+            "type": "text",
+            "value": "The initiative, announced by Gov.Kathy Hochul on Jan. 3, is funded by the Ibis Group, which aims to help students master grade-level literacy by the end of first grade by providing access to evidence-based instructional methods."
+          },
+          {
+            "type": "text",
+            "value": "The “science of reading” is an evidence-based pedagogy that focuses on five foundational skills: phonemic awareness, phonics, fluency, vocabulary, and comprehension."
+          },
+          {
+            "type": "text",
+            "value": "Launched at the beginning of the 2023-24 school year by the Department of Education, NYC Reads will be phased into every New York City school district over the next two years.<i> </i>The program aims to standardize curriculum options for public schools by requiring early childhood programs to use “The Creative Curriculum” and elementary schools to choose a curriculum grounded in the “science of reading.”"
+          },
+          {
+            "type": "text",
+            "value": "Hochul announced the expansion of the SUNY and CUNY microcredential program as part of her “Back to Basics” initiative, which also includes a $10 million state investment to train 20,000 teachers in the “science of reading” pedagogy."
+          },
+          {
+            "type": "text",
+            "value": "For many years, New York City public schools have used a “whole language” approach to teach reading to students. Currently, because only half of students in grades three through eight are achieving reading proficiency at their grade level, schools will shift to a citywide curriculum that takes a phonics-based instructional approach grounded in the “science of reading.”."
+          },
+          {
+            "type": "text",
+            "value": "District 5 is the only Manhattan district that was awarded the grant, and will be the first district to begin phase 1 of NYC Reads."
+          },
+          {
+            "type": "text",
+            "value": "Dawn Brooks DeCosta, deputy superintendent of Harlem Community School District 5, said the initiative is part of the district’s ongoing efforts to improve learning across schools by <a href=\"https://www.columbiaspectator.com/city-news/2023/11/16/district-5-launches-early-childhood-teacher-leader-mecca-groups/\">strengthening teacher capacity</a>."
+          },
+          {
+            "type": "text",
+            "value": "“At this point, everyone is a reading teacher,” DeCosta said. “Every teacher that is teaching any student on any level is a reading teacher because there isn’t a school anywhere where there aren’t children that can’t benefit from the ‘science of reading’ and going back to the basics … there are gaps.”"
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "ela_proficiency.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "DeCosta said the new partnership with SUNY New Paltz reflects the district’s effort to “do something deeper for our teachers” and fill the gap in teacher knowledge about how<i> </i>reading should be effectively taught. She said the microcredential provides the professional development teachers need to increase literacy rates by shifting the focus to things “we know are working.”"
+          },
+          {
+            "type": "text",
+            "value": "The self-paced curriculum is 35 hours long and consists of programming called “Continuing Teacher and Leader Education,” which supports teachers’ professional certification. Teachers are also able to work on the course during at least two of their Monday professional development days."
+          },
+          {
+            "type": "text",
+            "value": "Darrell P. Wheeler, president of SUNY New Paltz, said that District 5 had expressed an interest in providing teachers with access to the curriculum and they were “eager to share.”"
+          },
+          {
+            "type": "text",
+            "value": "“My hope is that it will have the effect on students of teachers developing, advancing, initiating competency skills and awareness of the application of ‘science of reading’ and thus, improve students’ ability to be better prepared to engage in reading across their life spectrum,” Wheeler said. “The shorter term goal is at the beginning, the teachers are more confident in introducing these principles in their classrooms, and that students will have, at the classroom level, immediate benefits.”"
+          },
+          {
+            "type": "text",
+            "value": "Leah Odom, New York City Department of Education public school teacher for 11 years, is now the teacher lead for the HMH Into Reading curriculum at Thurgood Marshall Academy. She said she initially learned the “science of reading” pedagogy through her training in the Orton-Gillingham approach, which breaks reading and spelling down into smaller skills before building on them."
+          },
+          {
+            "type": "text",
+            "value": "“If you have the knowledge of Greek and Latin roots, then when you teach, your engagement might be a little different because you can start with the ‘-tion,’ you can start with the connection of the words,” Odom said. “The comprehension starts from meaning.”"
+          },
+          {
+            "type": "text",
+            "value": "Odom said District 5’s educators course club, which started this past Tuesday, will meet weekly to support teachers and answer questions while they take the course independently."
+          },
+          {
+            "type": "text",
+            "value": "Zina Burton-Myrick, District 5 representative for the United Federation of Teachers, said she was in the first cohort of leaders participating in the course alongside the teachers. She believes the program’s principles should be applied from elementary through middle and high school."
+          },
+          {
+            "type": "text",
+            "value": "“What we’ve seen for a long time was students that could get a paragraph and really couldn’t comprehend because they couldn’t get through reading the whole paragraph,” Burton-Myrick said. “They didn’t have the decoding skills to even try to figure words out on their own, and that phonics part was really missing.”"
+          },
+          {
+            "type": "text",
+            "value": "According to Burton-Myrick, the union has worked towards ensuring that as many teachers as possible are maximizing the microcredential by helping them get registered."
+          },
+          {
+            "type": "text",
+            "value": "“We know that literacy is liberation, it opens doors, and so not being able to ensure that our students have that ability is something that is a disservice to them,” DeCosta said. “We’re happy to be able to return to what works.”"
+          },
+          {
+            "type": "text",
+            "value": "<i>Staff writer Zoya Khan can be contacted at </i><a href=\"mailto:zoya.khan@columbiaspectator.com\"><i>zoya.khan@columbiaspectator.com</i></a><i>. Follow her on X </i><a href=\"https://twitter.com/zoyakhan_116\"><i>@zoyakhan_116</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Deputy Graphics Editor Molly Durawa can be contacted at </i><a href=\"mailto:molly.durawa@columbiaspectator.com\"><i>molly.durawa@columbiaspectator.com</i></a><i>.  </i>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>. </i></b>"
+          }
+        ],
+        "headline": "SUNY New Paltz’s Science of Reading curriculum implemented across District 5 public schools",
+        "date": "February 15, 2024",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/zoya-khan/\">Zoya Khan</a>. Graphic by <a href=\"https://www.columbiaspectator.com/contributors/molly-durawa/\">Molly Durawa</a>",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/Y67HCVSL4BCH7J6WKDU5U4ZK2Y.jpg",
+        "cover_caption": "Judy Goldstein / Senior Staff Photographer",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/14gghTHxRFdzKZhviSDO4Kf0q3l1jv9udNli0ovYHaWw/edit"
       }
     }
   }
